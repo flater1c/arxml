@@ -10,7 +10,7 @@
     <postal_code><![CDATA[10001]]></postal_code>
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[contractor]]></schedule>
-    <pay_interval><![CDATA[perday]]></schedule>
+    <pay_interval><![CDATA[perday]]></pay_interval>
     <pay_currency><![CDATA[USD]]></pay_currency>
     <cf1><![CDATA[value1]]></cf1>
     <cf2><![CDATA[value2]]></cf2>
